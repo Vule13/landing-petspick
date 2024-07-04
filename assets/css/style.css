@@ -1174,23 +1174,23 @@ h6,
 }
 
 .demo-item .demo-thumb.demo_highlights1 {
-  background-image: url("../../documentation/assets/home4.jpg");
+  background-image: url("../images/home3.jpg");
 }
 
 .demo-item .demo-thumb.demo_highlights2 {
-  background-image: url("../../documentation/assets/home2.jpg");
+  background-image: url("../images/home1.jpg");
 }
 
 .demo-item .demo-thumb.demo_highlights3 {
-  background-image: url("../../documentation/assets/home1.jpg");
+  background-image: url("../images/home2.jpg");
 }
 
 .demo-item .demo-thumb.demo_highlights4 {
-  background-image: url("../../documentation/assets/home3.jpg");
+  background-image: url("../images/home4.jpg");
 }
 
 .demo-item .demo-thumb.demo_highlights5 {
-  background-image: url("../../documentation/assets/home5.jpg");
+  background-image: url("../images/home5.jpg");
 }
 
 .demo-item .demo-thumb.demo1 {
